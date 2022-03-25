@@ -2,3 +2,4 @@
 用vsc 连接阿里云服务器
 用git 实行版本控制
 用docker 进行python开发
+学习git 看廖雪峰教程，很清晰
