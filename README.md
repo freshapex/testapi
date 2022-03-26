@@ -12,3 +12,4 @@ git 跟踪并管理的是修改,而不是文件
 创建分支 git switch -c branchname
 也可以创建分支 git checkout -b brachname
 合并merge命令：git merge命令用于合并指定分支到当前分支。 假设当前分支为master: git merge dev 将dev分支合并到当前分支 
+git pull gitee master:dev 将远程主机gitee 的master 拉取过来与本地的dev 分支合并，如果是与当前分支合并，可以省略冒号
