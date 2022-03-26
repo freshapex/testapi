@@ -11,3 +11,4 @@ git 跟踪并管理的是修改,而不是文件
 从现在起，只要本地作了提交，就可以通过命令：git push origin master
 创建分支 git switch -c branchname
 也可以创建分支 git checkout -b brachname
+合并merge命令：git merge命令用于合并指定分支到当前分支。 假设当前分支为master: git merge dev 将dev分支合并到当前分支 
